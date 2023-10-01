@@ -1,0 +1,15 @@
+
+#[LP-A01] A partir do que aprendemos até agora:
+
+#Crie um exemplo de cada uma das principais tipagens de variáveis.
+
+email = "marcella@gmail.com.br"
+print (type(email))
+
+#Crie uma solicitação de dados ao usuário.
+
+nome = input("Digite seu nome ")
+
+#Imprima a solicitação anterior na tela com uma mensagem personalizada.
+
+print (f"olá, {nome}")
